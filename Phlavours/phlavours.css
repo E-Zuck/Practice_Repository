@@ -1,7 +1,19 @@
+@font-face {
+  font-family: "Rafaella";
+  src: url('fonts/fonnts.com-Rafaella-.otf');
+}
+
+.lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body 
 {
   margin: 40px 75px;
   background-color: #eebff4;
+  font-family: "Rafaella", "Lobster", Serif;
   color: #5c3162;
 }
 
