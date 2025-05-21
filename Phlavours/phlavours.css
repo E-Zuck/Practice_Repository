@@ -27,10 +27,6 @@ p
   line-height: 36px;
   font-size: large;
 }
-span.rafaella
-{
-  font-family: "Rafaella", "Lobster", serif;
-}
 
 /* Flexboxes */
 
@@ -111,4 +107,8 @@ input
 #MagnifyingGlass
 {
   margin-left: 20px;
+}
+#Rafaella
+{
+  font-family: "Rafaella", "Lobster", serif;
 }
