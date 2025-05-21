@@ -17,6 +17,11 @@ body
   color: #5c3162;
 }
 
+p
+{
+  font-family: "Montserrat", sans-serif;
+}
+
 /* Flexboxes */
 
 header 
@@ -37,6 +42,13 @@ header
 {
   display: flex;
   gap: 15px;
+}
+
+.nav_images
+{
+  width: 200px;
+  display: flex;
+  justify-content: space-around;
 }
 
 /*  */
@@ -60,20 +72,20 @@ input
 
 .full_img
 {
-    width: 120%;
-    margin: 0px -75px;
+  width: 120%;
+  margin: 0px -75px;
 }
 .half_img
 {
-    width: 45%;
+  width: 45%;
 }
 .logo
 {
-    width: 200px;
-    object-fit: contain;
+  width: 200px;
+  object-fit: contain;
 }
 .icon
 {
-    width: 35px;
-    object-fit: contain;
+  width: 35px;
+  object-fit: contain;
 }
