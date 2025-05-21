@@ -17,6 +17,10 @@ body
   color: #5c3162;
 }
 
+h5
+{
+  font-size: larger;
+}
 p
 {
   font-family: "Montserrat", sans-serif;
@@ -43,7 +47,7 @@ header
 .nav_bar 
 {
   display: flex;
-  gap: 15px;
+  gap: 38px;
 }
 
 .nav_images
@@ -85,9 +89,22 @@ input
 {
   width: 200px;
   object-fit: contain;
+  margin-bottom: 12px;
 }
 .icon
 {
   width: 35px;
   object-fit: contain;
+}
+
+
+
+#PhiliciaQuote
+{
+  margin-top: 25px;
+  margin-left: -78px;
+}
+#MagnifyingGlass
+{
+  margin-left: 20px;
 }
