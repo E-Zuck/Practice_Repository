@@ -3,12 +3,6 @@
   src: url('fonts/fonnts.com-Rafaella-.otf');
 }
 
-.lobster-regular {
-  font-family: "Lobster", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
 body 
 {
   margin: 40px 75px;
@@ -79,7 +73,7 @@ input
 .full_img
 {
   width: 120%;
-  margin: 0px -75px;
+  margin: 0px -78px;
 }
 .half_img
 {
@@ -101,14 +95,15 @@ input
 
 #PhiliciaQuote
 {
-  margin-top: 25px;
-  margin-left: -78px;
+  margin-top: 40px;
 }
 #MagnifyingGlass
 {
   margin-left: 20px;
 }
+/* WHY IS THIS NOT WORKING
 #Rafaella
 {
   font-family: "Rafaella", "Lobster", serif;
 }
+*/
