@@ -20,6 +20,8 @@ body
 p
 {
   font-family: "Montserrat", sans-serif;
+  line-height: 36px;
+  font-size: large;
 }
 
 /* Flexboxes */
